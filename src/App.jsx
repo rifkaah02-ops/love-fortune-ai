@@ -96,9 +96,9 @@ else{
 
 resultData={
 
-title:"🌱 Green Flag",
+title:"🌱 GREEN FLAGGG",
 image:"/greenflag.png",
-desc:"Hmm ada potensi nih 😭",
+desc:"NIKAHIN SKRG",
 category:"GREEN_FLAG"
 
 }
